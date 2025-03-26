@@ -17,7 +17,7 @@ This docker application has all basic features of Apache Spark like:
 ### How to use it:
 #### 1. Clone the repository in your machine using git clone command  
    ```commandline
-   git clone git@github.com:experientlabs/spark-dp-101.git
+   git clone https://github.com/VincentAbbesses/spark-dp-101.git
    ```
 #### 2. Next build the image by running below `docker build` command.  
 
